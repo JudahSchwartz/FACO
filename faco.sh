@@ -1,7 +1,4 @@
-
-
-
-
+#include this function in your bash profile
 
 faco () {
 
