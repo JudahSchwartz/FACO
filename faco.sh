@@ -32,7 +32,7 @@ faco () {
 
         count=0;
 
-        echo Multiple Mathces Found
+        echo Multiple Matches Found
 
         for line in $branchList
 
